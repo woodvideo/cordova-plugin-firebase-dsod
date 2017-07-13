@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "612514105581",
+    "firebase_url": "https://de-slag-om-domburg.firebaseio.com",
+    "project_id": "de-slag-om-domburg",
+    "storage_bucket": "de-slag-om-domburg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612514105581:android:cefe24b84ff2844a",
+        "android_client_info": {
+          "package_name": "nl.woodcreate.app.dosd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612514105581-e7qm0kujq4m83j88vifkupfsutbfqia2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBeyGYwnGkR4Mox1705plZZ50XBHV3vA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
